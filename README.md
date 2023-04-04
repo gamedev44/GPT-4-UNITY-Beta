@@ -1,4 +1,4 @@
-# AICommand
+# GPT for Unity
 
 ![out](https://user-images.githubusercontent.com/343936/226172223-acfba006-8621-425f-a697-be745a94503f.gif)
 
@@ -47,4 +47,12 @@ See [AIShader issue #1] for details.
 In many cases, ChatGPT fails to implement your command correctly. You might get
 the correct one by repeatedly pressing the "Run" button.
 
-(That's why I think this PoC is impractical...)
+(That's why I think this is far from finished and needs the support of companies like Nvidia with there Omniverse Create app and it will likely require another Company like Opus Ai to piece it all together  the tech is there we just need to combine and implement it etc etc...)
+
+nvidia omni text to 3d room generation tool presentation of this technology-
+
+https://www.youtube.com/watch?v=mFazJsjUUSo
+
+opus.ai text based Generative AI Game Engine Model for Making entire Games Using Only Text.
+
+Update v3 Demo :   https://www.youtube.com/watch?v=unjjVhgzAtI
